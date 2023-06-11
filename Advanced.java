@@ -1,6 +1,3 @@
-//Reouven Nakache 328574652
-//Stav Cohen 209024249
-
 //Advanced subscription - a single user subscription that pays for the gym and can purchase additional services.
 
 import java.util.*;
