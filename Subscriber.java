@@ -1,6 +1,3 @@
-//Reouven Nakache 328574652
-//Stav Cohen 209024249
-
 //The basic subscription - a single user subscription that pays for use of the gym only.
 
 public class Subscriber {
