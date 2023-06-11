@@ -1,6 +1,3 @@
-// Stav Cohen 209024249
-// Reouven Nakache 328574652
-
 public class VideoFile extends File { // The son of File class
 	private boolean hasTranslation;
 
