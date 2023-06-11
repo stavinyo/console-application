@@ -1,6 +1,3 @@
-//Reouven Nakache 328574652
-//Stav Cohen 209024249
-
 public class Service {
 	protected String serviceName;
 	protected int serviceMonthlyCost;
