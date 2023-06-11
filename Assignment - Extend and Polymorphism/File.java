@@ -1,7 +1,3 @@
-// Stav Cohen 209024249
-// Reouven Nakache 328574652
-
-
 import java.util.Objects;
 
 public class File { //Parent class of Files
