@@ -6,7 +6,6 @@ By completing practical projects, I will gain valuable experience in software de
 
 ## Assignments:
 
-### [Assignment - Abstract classes and interfaces](stavinyo/console-application/abstract-classes-interfaces.java)
 ### Assignment - Abstract classes and interfaces:
 **Description:** Explore abstract classes and interfaces in Java to achieve code abstraction and reusability.
 
@@ -20,4 +19,4 @@ By completing practical projects, I will gain valuable experience in software de
 **Description:** Explore inheritance and polymorphism in Java by implementing subclassing, method overriding, and utilizing polymorphic behavior.
 
 ### Assignment - Exception:
-**Description: **Learn exception handling techniques in Java, including try-catch blocks and effective error management strategies.
+**Description:** Learn exception handling techniques in Java, including try-catch blocks and effective error management strategies.
