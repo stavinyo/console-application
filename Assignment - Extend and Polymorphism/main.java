@@ -1,5 +1,3 @@
-// Stav Cohen 209024249
-// Reouven Nakache 328574652
 
 // The program displays a list of computer files including their details
 
