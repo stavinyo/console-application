@@ -1,5 +1,5 @@
 # console-application
-I developed several console applications during my Java OOP course
+I developed several console applications during my Java OOP course.
 
 These assignments will help me solidify my knowledge of Object-Oriented Methodology and Java programming.
 By completing practical projects, I will gain valuable experience in software development using Java.
