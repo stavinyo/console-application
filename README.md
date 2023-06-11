@@ -6,6 +6,7 @@ By completing practical projects, I will gain valuable experience in software de
 
 ## Assignments:
 
+### [Assignment - Abstract classes and interfaces](stavinyo/console-application/abstract-classes-interfaces.java)
 ### Assignment - Abstract classes and interfaces:
 **Description:** Explore abstract classes and interfaces in Java to achieve code abstraction and reusability.
 
