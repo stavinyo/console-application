@@ -1,6 +1,3 @@
-//Reouven Nakache 328574652
-//Stav Cohen 209024249
-
 //Family subscription - Subscription to several users together who pay for the gym and can purchase additional services.
 
 public class Family extends Advanced {
