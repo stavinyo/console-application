@@ -1,6 +1,4 @@
-// Stav Cohen 209024249
-// Reouven Nakache 328574652
- 
+
 //The program asks the user to enter types of boxes and displays them and their details
 
 package q02;
