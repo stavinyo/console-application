@@ -1,6 +1,3 @@
-// Stav Cohen 209024249
-// Reouven Nakache 328574652
-
 package q02;
 
 import java.util.Objects;
